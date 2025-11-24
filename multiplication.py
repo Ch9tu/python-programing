@@ -1,0 +1,8 @@
+num = int(input("enter any number: "))
+for i in range(1, 11):
+    print(num, "x", i, "=", num*i)
+
+odd.py
+for i in range(1, 51):
+    if i % 2 !=0:
+        print(i)
